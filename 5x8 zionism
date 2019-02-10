@@ -1,0 +1,138 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+5x8
+Repositories16
+Code566K
+Commits11K
+Issues233
+Marketplace0
+Topics0
+Wikis63
+Users4
+Language
+
+Sort
+
+Showing 557,180 available code results 
+@mzhou
+mzhou/lge-kernel-p880-cyanogenmod – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@MechaCM
+MechaCM/android_kernel_htc_mecha – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@ISTweak
+ISTweak/android_kernel_htc_valentewx – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@ThinkingBridge
+ThinkingBridge/platform_kernel_lge_hammerhead – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@DooMLoRD
+DooMLoRD/android_kernel_sony_msm8974ab – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@converter1
+converter1/SmartPenCover – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 27, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@JustAkan
+JustAkan/jolla_kernel_f220k – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 28, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@vincentmli
+vincentmli/lvs-tool – v4l2-mediabus.h
+Showing the top four matches
+Last indexed on Jun 28, 2018
+C
+	V4L2_MBUS_FMT_SBGGR10_2X8_PADHI_BE,
+	V4L2_MBUS_FMT_SBGGR10_2X8_PADLO_BE,
+	V4L2_MBUS_FMT_SGRBG8_1X8,
+	V4L2_MBUS_FMT_SBGGR12_1X12,
+	V4L2_MBUS_FMT_YUYV8_1_5X8,
+	V4L2_MBUS_FMT_YVYU8_1_5X8,
+	V4L2_MBUS_FMT_UYVY8_1_5X8,
+	V4L2_MBUS_FMT_VYUY8_1_5X8,
+};
+
+/**
+ * struct v4l2_mbus_framefmt - frame format on the media bus
+@moddingg33k
+moddingg33k/android_kernel_google – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 28, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+@aznrice
+aznrice/l-preview – v4l2-mediabus.h
+Showing the top three matches
+Last indexed on Jun 28, 2018
+C
+	/* YUV (including grey) - next is 0x2014 */
+	V4L2_MBUS_FMT_Y8_1X8 = 0x2001,
+	V4L2_MBUS_FMT_UYVY8_1_5X8 = 0x2002,
+	V4L2_MBUS_FMT_VYUY8_1_5X8 = 0x2003,
+	V4L2_MBUS_FMT_YUYV8_1_5X8 = 0x2004,
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
